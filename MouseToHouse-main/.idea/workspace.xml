@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90615d7c-e510-41f8-82fa-6a52497267d9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="b8208ca3-3989-40ef-85e8-bb423d098a6d" name="localhost" port="8081" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="2LVCuFTKcsivy6DlMoH0WXBCLpk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alex.MARGOT/Desktop/FinalEval-main - Copie&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;web.server&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MouseToHouse\Sources\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MouseToHouse\Sources\model" />
+      <recent name="C:\MouseToHouse\Sources" />
+      <recent name="C:\MouseToHouse\Sources\views" />
+      <recent name="C:\Users\Evann.MARTINS\Documents\GitHub\MouseToHouse\Sources\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MouseToHouse" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8081">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90615d7c-e510-41f8-82fa-6a52497267d9" name="Changes" comment="" />
+      <created>1675947084432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675947084432</updated>
+      <workItem from="1675947086667" duration="6147000" />
+      <workItem from="1677072559665" duration="5803000" />
+      <workItem from="1677156325832" duration="200000" />
+      <workItem from="1677156563205" duration="107000" />
+      <workItem from="1677156708552" duration="300000" />
+      <workItem from="1677157137777" duration="136000" />
+      <workItem from="1677597250393" duration="1734000" />
+      <workItem from="1677679138516" duration="339000" />
+      <workItem from="1677681014507" duration="4918000" />
+      <workItem from="1677686038205" duration="75000" />
+      <workItem from="1678086777618" duration="1544000" />
+      <workItem from="1678088363590" duration="736000" />
+      <workItem from="1678202312799" duration="2205000" />
+      <workItem from="1678281850718" duration="5637000" />
+      <workItem from="1678890383483" duration="3348000" />
+      <workItem from="1679491790694" duration="5210000" />
+      <workItem from="1679499077338" duration="158000" />
+      <workItem from="1679499263694" duration="2000" />
+      <workItem from="1679499279350" duration="589000" />
+      <workItem from="1679499891566" duration="458000" />
+      <workItem from="1679575635098" duration="3908000" />
+      <workItem from="1679593049766" duration="10724000" />
+      <workItem from="1679900056042" duration="267000" />
+      <workItem from="1679900360051" duration="71000" />
+      <workItem from="1679909238172" duration="7598000" />
+      <workItem from="1680249333652" duration="4883000" />
+      <workItem from="1680283526471" duration="939000" />
+      <workItem from="1680347077759" duration="2197000" />
+      <workItem from="1680506549498" duration="1709000" />
+      <workItem from="1680523417640" duration="4011000" />
+      <workItem from="1680591764333" duration="476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

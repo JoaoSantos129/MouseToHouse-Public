@@ -1,0 +1,239 @@
+.pageTitle {
+    color: rgb(56, 113, 194);
+    text-align: center;
+    font-size: 60px;
+    font-family: Georgia;
+    margin: 30px;
+}
+
+#container {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+/* Bordered form */
+form {
+    width: 100%;
+    padding: 30px;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+#container h1 {
+    padding-bottom: 10px;
+}
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+input[type=submit] {
+    background-color: #2259ff;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+input[type=submit]:hover {
+    background-color: white;
+    color: #2259ff;
+    border: 1px solid #2259ff;
+}
+
+input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.logo {
+    height: 50px;
+}
+
+.navbar {
+    border-top: 5px solid rgb(56, 113, 194);
+    border-bottom: 5px solid rgb(56, 113, 194);
+    background-color: rgb(220, 220, 220);
+}
+
+.nav-item {
+    margin-top: 7px;
+}
+
+li {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.nav-left .nav-item:first-child {
+    padding: 0;
+    margin-top: 0;
+    margin-left: 0;
+}
+
+.nav-right .nav-item:last-child {
+    margin-right: 3px;
+}
+
+.nav-link {
+    font-size: 25px;
+}
+
+.nav-left {
+    float: left;
+}
+
+.nav-right {
+    float: right;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#footer {
+    width: available;
+    height: 40px;
+    background-color: rgb(56, 113, 194);
+    color: rgb(56, 113, 194);
+    margin-top: auto;
+    align-content: end;
+}
+
+#titre {
+    text-decoration: none;
+}
+
+#Problème {
+    text-align: center;
+}
+
+#DescriptionDiv {
+    text-align: center;
+}
+
+#signaler {
+    text-align: center;
+    height: 50px;
+    width: auto;
+    margin: auto;
+}
+
+#Description {
+    position: center;
+    width: 500px;
+    height: 230px;
+}
+
+#DivContact {
+    text-align: center;
+}
+
+#Contact #mail #telephone {
+    text-align: left;
+}
+
+.social{
+    width: 34px;
+    margin-top: 3px;
+    margin-right: 5px;
+    float: right;
+}
+
+.accountLink{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.center{
+    text-align: center;
+    margin-top: 7%;
+}
+
+h1 + p{
+    margin-top: 40px;
+}
+
+.accountInfos{
+    font-size: 25px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.itemInTable{
+    height: 100px;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+}
+
+.AddToCartItem {
+
+}
+
+.HomePageImg {
+    align-content: center;
+    display: flex;
+    height: 300px;
+    justify-content: center;
+}
+
+.boutonsItems[type=submit] {
+    background-color: #2259ff;
+    color: white;
+    padding: 13px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.voirDétail[type=submit]:hover {
+    background-color: white;
+    color: #2259ff;
+    border: 1px solid #2259ff;
+}
+
+
+#details {
+    margin: auto;
+    width: auto;
+    height: auto;
+}
+
+#hometext{
+    margin: auto;
+    font-size: 22px;
+}
+
+#lienproduits{
+    margin: auto;
+    font-size: 20px;
+}
+
+.item{
+    font-size: 20px;
+    margin: 50px;
+}

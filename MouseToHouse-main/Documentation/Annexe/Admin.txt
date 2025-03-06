@@ -1,0 +1,6 @@
+Email Admin : admin@test.com
+Mot de passe admin : admin
+username admin : Admin
+Name Admin : House
+telNumber Admin : 333
+isUserAdmin : 1
